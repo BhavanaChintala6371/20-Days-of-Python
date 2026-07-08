@@ -48,3 +48,34 @@ y = "is "
 z = "awesome"
 print(x+y+z)
 
+name = "Bhavana"
+age = 22
+major = "B.Tech"
+CGPA = 8.43
+is_interested_in_python = True
+print(name, age, major, CGPA, is_interested_in_python)
+# Using type() function to check the data type of the variables
+print(type(name), type(age), type(major), type(CGPA), type(is_interested_in_python))
+
+x = 3 + 4j
+print(x, type(x))
+
+a = 20/2
+print(a)
+print(CGPA, type(CGPA))
+new_name =int(CGPA)
+print(new_name, type(new_name))
+new_age = str(age)
+print(new_age,type(new_age))
+
+text1 = 'python is my "favorite" programming language'
+text2 = "Iam getting good at python 'everyday'"
+text3 = '''I am so happy
+as i am progressing
+i am excited for the opportunities that are coming on my way '''
+text4 = """I would like to thank few people
+who have been a great support to me in this journey """
+print(text1)
+print(text2)
+print(text3)
+print(text4)
