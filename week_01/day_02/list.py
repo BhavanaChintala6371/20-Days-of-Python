@@ -11,3 +11,8 @@ list1 = ["apple", "banana"]
 list2 = ["cherry", "orange"]
 list1.extend(list2)
 print(list1)
+fruits = ["apple", "banana", "cherry"]
+numbers = [10, 20, 30]
+mixed = ["Bhavana", 25, True, 99.5]
+print(len(fruits))
+print(type(fruits))
