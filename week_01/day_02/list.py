@@ -56,5 +56,4 @@ print(fruits)
 # del to delete the item from specific index
 del fruits[0]
 print(fruits)
-print(numbers)
-print(mixed)
+
