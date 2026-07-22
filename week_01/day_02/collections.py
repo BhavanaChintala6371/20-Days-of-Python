@@ -8,7 +8,7 @@ print(courses[:1])
 print(courses[1:])
 print(courses[-3:])
 print(courses[:-1]) 
-
+# Using Methods to add elements to list
 courses.append("Art")
 print(courses)
 
