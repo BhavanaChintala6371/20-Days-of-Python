@@ -12,6 +12,8 @@ print(courses[0:3])
 # Using Methods to add elements to list
 courses.append("Art")
 print(courses)
+courses.append("English")
+print(courses)
 
 courses.insert(0,"Art")
 print(courses)
