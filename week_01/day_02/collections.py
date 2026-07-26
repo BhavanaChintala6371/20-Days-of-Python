@@ -4,6 +4,7 @@ print(courses)
 print(len(courses))
 # Accessing values using index and slicing 
 print(courses[0])
+print(courses[-0])
 print(courses[:1])
 print(courses[1:])
 print(courses[-3:])
