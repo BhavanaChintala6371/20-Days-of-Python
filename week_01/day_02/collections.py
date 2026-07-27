@@ -1,6 +1,6 @@
 courses = ["Maths", "Physics", "Science"]
 print(courses)
-# Using len() to know the size of the list
+# Using len() to know the size/length of the list
 print(len(courses))
 # Accessing values using index and slicing 
 print(courses[0])
