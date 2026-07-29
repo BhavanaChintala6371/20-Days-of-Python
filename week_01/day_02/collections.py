@@ -16,6 +16,8 @@ courses.append("Art")
 print(courses)
 courses.append("English")
 print(courses)
+courses.append("Hindi")
+print(courses)
 
 courses.insert(0,"Art")
 print(courses)
