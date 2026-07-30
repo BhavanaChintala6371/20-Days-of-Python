@@ -20,4 +20,3 @@ courses.append("Hindi")
 print(courses)
 
 courses.insert(0,"Art")
-print(courses)
