@@ -23,4 +23,5 @@ courses.insert(0,"Art")
 print(courses)
 
 courses.extend(["History","Geography"])
-print(courses)
+
+
